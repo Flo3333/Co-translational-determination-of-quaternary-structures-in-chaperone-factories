@@ -11,3 +11,5 @@ Date of analysis : 2024/03 - 2024/04
 For paper : Co-translational-determination-of-quaternary-structures-in-chaperone-factories
 
 3 datasets were analyzed each with an indentic analysis structure but the code was slightly modified to adapt to images channel numbers and cells treatment conditions.
+
+pipeline filename : BC_clusterkinetics_pipeline.py
